@@ -3,5 +3,5 @@
 永井孝志 (2023) 作物統計を用いた作物別・都道府県別の収量変動リスクの定量化. 農業情報研究, 31(4), 120-130<BR>
 の付録データ
 
-<a href="https://doi.org/10.3173/air.31.120">https://doi.org/10.3173/air.31.120</a>
+<a href="https://doi.org/10.3173/air.31.120" target="_blank">https://doi.org/10.3173/air.31.120</a>
 
